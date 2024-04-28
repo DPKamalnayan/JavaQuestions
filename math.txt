@@ -1,0 +1,4 @@
+Question:
+data
+67,68,65,68,72,74,69,71
+find out the collation group.
